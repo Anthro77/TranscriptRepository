@@ -17,6 +17,16 @@
 **Video:** 2026-03-20 - Caught Lying, AGAIN. They Will NEVER Recover
 **Context:** While the Model Y was briefly the top-selling car globally in some quarters of 2023, claiming it is continuously outselling the Corolla globally over an extended multi-year period is factually dubious based on standard automotive industry sales tracking.
 
+> "To which I would respond, 'Not on their vehicle business, bro. If it weren't for BYD's extremely profitable battery cell supply business, the company would be bleeding billions of dollars per year.'"
+**Timestamp:** 00:08:31
+**Video:** 2026-02-28 - What The Fk Just Happened Tesla Order Backlog SURGES After New Product Debuts At Budget Price
+**Context:** He repeats the claim that BYD only makes money on batteries. This is a common talking point among Tesla fans to cope with BYD's massive sales volumes, but it is not supported by BYD's financial filings which show gross margins on their vehicle segment.
+
+> "The EU Commission packed to the rafters full of [__] [__] who hate free speech, hate losing control of the one true narrative, and therefore hate Elon Musk X above all else leveled a ridiculous 120 million euro fine with a bunch of fake reasons that actually boil down to we don't like people having access to information on X... claiming deceptive design of the blue check mark. Yes, that's correct... for what? Allowing people to verify their account."
+**Timestamp:** 00:02:15
+**Video:** 2026-03-02 - They Will Regret This
+**Context:** The creator fundamentally misrepresents the EU Commission's actions under the Digital Services Act. The fine regarding the blue checkmark wasn't about "allowing people to verify their account," it was because the checkmark, which previously denoted verified identity, was changed to merely indicate a paid subscription, confusing users about the authenticity of accounts.
+
 ## Absurd
 
 > "I don't think humanity entering an era of hyper abundance is a matter of if, but when. At some point in the future, it seems inevitable to me that the cost of goods and services will fall to near zero and everyone will be able to have everything that they reasonably want. at which point the whole concept of money becomes entirely meaningless."
@@ -38,6 +48,16 @@
 **Timestamp:** 00:03:15
 **Video:** 2026-03-23 - Elon's TERAFAB Project World Reacts
 **Context:** Presenting a literal sci-fi "Von Neumann probe" Dyson swarm scenario involving millions of robots mining the moon and asteroid belt as a realistic near-term business plan for Tesla/SpaceX.
+
+> "When users, owners of Tesla vehicles are not actively driving the vehicle. Should they opt in to macro hard? Tesla will pay them to use the computer in their vehicle while it's not driving to do AI inference... The end result is you'll make $100 $200 per month while you sleep, while you're at work, while you're on vacation. You won't notice any meaningful change whatsoever except the money landing in your bank account."
+**Timestamp:** 00:02:51 / 00:08:20
+**Video:** 2026-03-13 - Holy Fk! Elon Stuns With $100 Trillion TeslaxAI Plan
+**Context:** The idea that consumer vehicles, parked in random garages with varying internet connections and thermal environments, will be a reliable, competitive alternative to dedicated data centers for enterprise-level AI inference is absurd.
+
+> "It will be far bigger than everything else combined there. Several locations for Terafab are under consideration. It needs thousands of acres and over 10 gigawatts of power at full scale... Musk chiming in saying that 100 million square feet is the right order of magnitude. Putting that in perspective... three times the size of New York's Central Park."
+**Timestamp:** 00:01:37
+**Video:** 2026-03-23 - Elon's TERAFAB Project World Reacts
+**Context:** 100 million square feet of clean-room fabrication space? It is physically and economically preposterous to construct a semiconductor fab of this scale.
 
 ## Pathetically obsequious
 
@@ -66,6 +86,11 @@
 **Video:** 2026-03-23 - Elon's TERAFAB Project World Reacts
 **Context:** The classic sycophant's lament: despite Musk being one of the richest and most famous people on earth, the creator complains he still isn't worshipped *enough*.
 
+> "From Tesla to X. And in case you haven't noticed, Elon Musk just can't stop winning... The more Tesla wins, the more Tesla will be attacked. The more X wins, the more X will be attacked. The more SpaceX wins, the more SpaceX will be attacked. The more XAI wins, the more XAI will be attacked."
+**Timestamp:** 00:01:00 / 00:03:27
+**Video:** 2026-03-02 - They Will Regret This
+**Context:** Blind hero worship. Everything Musk touches is framed as "winning" despite objective realities (e.g., X's massive drop in value and advertiser revenue). Any criticism is just framed as attacks on his winning.
+
 ## Personally embarrassing
 
 > "My confused admirers, also sometimes known as haters, of course, will be telling me, 'But Steven, you're full of [__] BYD is making a profit, too.'"
@@ -92,6 +117,11 @@
 **Timestamp:** 00:05:57
 **Video:** 2026-03-23 - Elon's TERAFAB Project World Reacts
 **Context:** Uncritically reads comments from elderly fans who genuinely believe Musk's wild sci-fi promises will keep them alive or grant them utopian futures. It's sad that he encourages this delusion among vulnerable viewers.
+
+> "See, this is what happens to me. I wake up one day cuz I have a really great perfect morning routine where I don't check X first thing in the morning. [clears throat] So, anyway, totally not. First thing in the morning, I open up the X app, get blinded by the white background, and go, 'What the [__] is this shit?'"
+**Timestamp:** 00:17:01
+**Video:** 2026-03-14 - How Elon Musk Always Wins Blueprint For Success
+**Context:** Admitting that the "biggest L" in Twitter's history for him was being temporarily forced to use light mode. Shows an incredibly sheltered, privileged life where minor UI changes trigger massive tantrums.
 
 ## Potentially interesting to a critical audience
 
@@ -124,3 +154,8 @@
 **Timestamp:** 00:31:53
 **Video:** 2026-03-20 - Caught Lying, AGAIN. They Will NEVER Recover
 **Context:** A fascinating slip of the tongue where he admits that Tesla buyers are "a little bit culty," which perfectly describes the entire tone and audience of his own channel.
+
+> "They don't need to name a company in the same industry producing vehicles that has a sea of content creators raving about the company, their products, the opportunity. Even from an investment point of view, they don't exist. Why? Because there's no other company that doesn't need to play the game."
+**Timestamp:** 00:21:36
+**Video:** 2026-03-20 - Caught Lying, AGAIN. They Will NEVER Recover
+**Context:** He accidentally admits that Tesla relies on an army of sycophantic "content creators" (like himself) to do their marketing for them, effectively serving as unpaid PR while attacking traditional journalists for being biased.
